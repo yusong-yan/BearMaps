@@ -4,11 +4,14 @@ BearMaps is a web map application for Berkeley. Similiar to google map, users ca
 path to their destination with detailed instructions.
 
 ### Implemented files
+
+#### [AStar](bearmaps/AStar/AStarSolver.java) [KDtree](bearmaps/KDtree_PQ/KDTree.java) [PriorityQueue](bearmaps/KDtree_PQ/ArrayHeapMinPQ.java)
+  - Data structure and Graph algrithom for finding shortest path
+#### [Router](bearmaps/Map/Router.java)
+  - Utilized Graph algrithom AStar to find shortest path
+  - After showing the route, method "routeDirection" provide detailed turn-by-turn navigation
 #### [MyTriesSet](BearMap/bearmaps/KDtree_PQ/MyTrieSet.java)
   - Implemented Tries data structure for autocomplete of searching location
-#### [Router](BearMap/bearmaps/Map/Router.java)
-  - Find Shortest Path by implementing AI algrithom AStar
-  - show route direction
 #### [AugmentedStreetMapGraph](BearMap/bearmaps/Map/AugmentedStreetMapGraph.java)
   - Utilized KD-tree data structure in order to obtain close vertex which is very important to find shortest path
 #### [APIRouteHandler](BearMap/bearmaps/Map/server/handler/impl/RasterAPIHandler.java)
