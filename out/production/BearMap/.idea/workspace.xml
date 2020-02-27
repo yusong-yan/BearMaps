@@ -1,7 +1,70 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e659afcf-d87e-43d8-918e-f9563f035af3" name="Default Changelist" comment="" />
+    <list default="true" id="e659afcf-d87e-43d8-918e-f9563f035af3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Percolation/.idea/libraries/javalib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../color_fight/.idea/libraries/javalib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../color_fight/color_fight.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../color_fight/out/production/color_fight/color_fight.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../puzzleSolver/puzzleSolver.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Percolation/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Percolation/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Percolation/Percolation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Percolation/Percolation.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Percolation/Percolation/Percolation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Percolation/Percolation/Percolation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Percolation/out/production/Percolation/Percolation/Percolation.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Percolation/out/production/Percolation/Percolation/Percolation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../color_fight/.idea/libraries/algs4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../color_fight/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../color_fight/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../color_fight/out/production/color_fight/.idea/libraries/algs4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../color_fight/out/production/color_fight/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../color_fight/out/production/color_fight/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../color_fight/out/production/color_fight/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../color_fight/out/production/color_fight/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../color_fight/out/production/color_fight/creatures/Colrus.class" beforeDir="false" afterPath="$PROJECT_DIR$/../color_fight/out/production/color_fight/creatures/Colrus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../color_fight/out/production/color_fight/creatures/Plip.class" beforeDir="false" afterPath="$PROJECT_DIR$/../color_fight/out/production/color_fight/creatures/Plip.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../color_fight/out/production/color_fight/creatures/TestClorus.class" beforeDir="false" afterPath="$PROJECT_DIR$/../color_fight/out/production/color_fight/creatures/TestClorus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../color_fight/out/production/color_fight/creatures/TestPlip.class" beforeDir="false" afterPath="$PROJECT_DIR$/../color_fight/out/production/color_fight/creatures/TestPlip.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../color_fight/out/production/color_fight/huglife/Action$ActionType.class" beforeDir="false" afterPath="$PROJECT_DIR$/../color_fight/out/production/color_fight/huglife/Action$ActionType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../color_fight/out/production/color_fight/huglife/Action.class" beforeDir="false" afterPath="$PROJECT_DIR$/../color_fight/out/production/color_fight/huglife/Action.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../color_fight/out/production/color_fight/huglife/Creature.class" beforeDir="false" afterPath="$PROJECT_DIR$/../color_fight/out/production/color_fight/huglife/Creature.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../color_fight/out/production/color_fight/huglife/Direction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../color_fight/out/production/color_fight/huglife/Direction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../color_fight/out/production/color_fight/huglife/Empty.class" beforeDir="false" afterPath="$PROJECT_DIR$/../color_fight/out/production/color_fight/huglife/Empty.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../color_fight/out/production/color_fight/huglife/Grid.class" beforeDir="false" afterPath="$PROJECT_DIR$/../color_fight/out/production/color_fight/huglife/Grid.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../color_fight/out/production/color_fight/huglife/HugLife.class" beforeDir="false" afterPath="$PROJECT_DIR$/../color_fight/out/production/color_fight/huglife/HugLife.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../color_fight/out/production/color_fight/huglife/HugLifeAnimator$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../color_fight/out/production/color_fight/huglife/HugLifeAnimator$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../color_fight/out/production/color_fight/huglife/HugLifeAnimator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../color_fight/out/production/color_fight/huglife/HugLifeAnimator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../color_fight/out/production/color_fight/huglife/HugLifeUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/../color_fight/out/production/color_fight/huglife/HugLifeUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../color_fight/out/production/color_fight/huglife/Impassible.class" beforeDir="false" afterPath="$PROJECT_DIR$/../color_fight/out/production/color_fight/huglife/Impassible.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../color_fight/out/production/color_fight/huglife/In.class" beforeDir="false" afterPath="$PROJECT_DIR$/../color_fight/out/production/color_fight/huglife/In.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../color_fight/out/production/color_fight/huglife/Occupant.class" beforeDir="false" afterPath="$PROJECT_DIR$/../color_fight/out/production/color_fight/huglife/Occupant.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../color_fight/out/production/color_fight/huglife/Out.class" beforeDir="false" afterPath="$PROJECT_DIR$/../color_fight/out/production/color_fight/huglife/Out.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../color_fight/out/production/color_fight/huglife/Position.class" beforeDir="false" afterPath="$PROJECT_DIR$/../color_fight/out/production/color_fight/huglife/Position.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../color_fight/out/production/color_fight/huglife/SampleCreature.class" beforeDir="false" afterPath="$PROJECT_DIR$/../color_fight/out/production/color_fight/huglife/SampleCreature.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../color_fight/out/production/color_fight/huglife/StdDraw.class" beforeDir="false" afterPath="$PROJECT_DIR$/../color_fight/out/production/color_fight/huglife/StdDraw.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../color_fight/out/production/color_fight/huglife/TestHugLife.class" beforeDir="false" afterPath="$PROJECT_DIR$/../color_fight/out/production/color_fight/huglife/TestHugLife.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../planet_rotation/.idea/libraries/javalib.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../planet_rotation/.idea/libraries/javalib.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../planet_rotation/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../planet_rotation/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../planet_rotation/out/production/planet_rotation/.idea/libraries/javalib.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../planet_rotation/out/production/planet_rotation/.idea/libraries/javalib.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../planet_rotation/out/production/planet_rotation/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../planet_rotation/out/production/planet_rotation/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../planet_rotation/out/production/planet_rotation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../planet_rotation/out/production/planet_rotation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../planet_rotation/out/production/planet_rotation/In.class" beforeDir="false" afterPath="$PROJECT_DIR$/../planet_rotation/out/production/planet_rotation/In.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../planet_rotation/out/production/planet_rotation/Nbody.class" beforeDir="false" afterPath="$PROJECT_DIR$/../planet_rotation/out/production/planet_rotation/Nbody.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../planet_rotation/out/production/planet_rotation/Planet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../planet_rotation/out/production/planet_rotation/Planet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../planet_rotation/out/production/planet_rotation/StdAudio.class" beforeDir="false" afterPath="$PROJECT_DIR$/../planet_rotation/out/production/planet_rotation/StdAudio.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../planet_rotation/out/production/planet_rotation/StdDraw.class" beforeDir="false" afterPath="$PROJECT_DIR$/../planet_rotation/out/production/planet_rotation/StdDraw.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../planet_rotation/out/production/planet_rotation/StdOut.class" beforeDir="false" afterPath="$PROJECT_DIR$/../planet_rotation/out/production/planet_rotation/StdOut.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../planet_rotation/out/production/planet_rotation/TestBodyConstructor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../planet_rotation/out/production/planet_rotation/TestBodyConstructor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../planet_rotation/out/production/planet_rotation/TestCalcDistance.class" beforeDir="false" afterPath="$PROJECT_DIR$/../planet_rotation/out/production/planet_rotation/TestCalcDistance.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../planet_rotation/out/production/planet_rotation/TestCalcForceExertedBy.class" beforeDir="false" afterPath="$PROJECT_DIR$/../planet_rotation/out/production/planet_rotation/TestCalcForceExertedBy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../planet_rotation/out/production/planet_rotation/TestCalcForceExertedByXY.class" beforeDir="false" afterPath="$PROJECT_DIR$/../planet_rotation/out/production/planet_rotation/TestCalcForceExertedByXY.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../planet_rotation/out/production/planet_rotation/TestCalcNetForceExertedByXY.class" beforeDir="false" afterPath="$PROJECT_DIR$/../planet_rotation/out/production/planet_rotation/TestCalcNetForceExertedByXY.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../planet_rotation/out/production/planet_rotation/TestReadBodies.class" beforeDir="false" afterPath="$PROJECT_DIR$/../planet_rotation/out/production/planet_rotation/TestReadBodies.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../planet_rotation/out/production/planet_rotation/TestReadRadius.class" beforeDir="false" afterPath="$PROJECT_DIR$/../planet_rotation/out/production/planet_rotation/TestReadRadius.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../planet_rotation/out/production/planet_rotation/TestUpdate.class" beforeDir="false" afterPath="$PROJECT_DIR$/../planet_rotation/out/production/planet_rotation/TestUpdate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../puzzleSolver/.idea/libraries/javalib.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../puzzleSolver/.idea/libraries/javalib.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../puzzleSolver/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../puzzleSolver/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../puzzleSolver/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../puzzleSolver/out/production/puzzleSolver/.idea/libraries/javalib.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../puzzleSolver/out/production/puzzleSolver/.idea/libraries/javalib.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../puzzleSolver/out/production/puzzleSolver/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../puzzleSolver/out/production/puzzleSolver/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../puzzleSolver/out/production/puzzleSolver/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../puzzleSolver/out/production/puzzleSolver/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../puzzleSolver/out/production/puzzleSolver/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,9 +78,17 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1YB3x0i7ASqyRvbdAbWzbu8Ui9C" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -25,6 +96,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="findjar.last.used.dir" value="$PROJECT_DIR$/../javalib" />
@@ -121,6 +193,11 @@
       <workItem from="1582569376429" duration="5716000" />
       <workItem from="1582601470211" duration="1128000" />
       <workItem from="1582604172618" duration="12000" />
+      <workItem from="1582604638891" duration="2775000" />
+      <workItem from="1582703541220" duration="3000" />
+      <workItem from="1582704376201" duration="8000" />
+      <workItem from="1582758309329" duration="64000" />
+      <workItem from="1582761547234" duration="40000" />
     </task>
     <servers />
   </component>
@@ -148,28 +225,28 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="378" y="173" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1280.800@0.0.1280.800" timestamp="1582403309490" />
-    <state width="1238" height="177" key="GridCell.Tab.0.bottom" timestamp="1582602937177">
+    <state width="1238" height="177" key="GridCell.Tab.0.bottom" timestamp="1582610679166">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="177" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1582602937177" />
+    <state width="1238" height="177" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1582610679166" />
     <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.23.1280.715@0.23.1280.715" timestamp="1582524490093" />
     <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.23.1280.716@0.23.1280.716" timestamp="1582576456767" />
-    <state width="1238" height="177" key="GridCell.Tab.0.center" timestamp="1582602937175">
+    <state width="1238" height="177" key="GridCell.Tab.0.center" timestamp="1582610679164">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="177" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1582602937175" />
+    <state width="1238" height="177" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1582610679164" />
     <state width="1238" height="212" key="GridCell.Tab.0.center/0.23.1280.715@0.23.1280.715" timestamp="1582524490092" />
     <state width="1238" height="212" key="GridCell.Tab.0.center/0.23.1280.716@0.23.1280.716" timestamp="1582576456766" />
-    <state width="1238" height="177" key="GridCell.Tab.0.left" timestamp="1582602937174">
+    <state width="1238" height="177" key="GridCell.Tab.0.left" timestamp="1582610679163">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="177" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1582602937174" />
+    <state width="1238" height="177" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1582610679163" />
     <state width="1238" height="212" key="GridCell.Tab.0.left/0.23.1280.715@0.23.1280.715" timestamp="1582524490091" />
     <state width="1238" height="212" key="GridCell.Tab.0.left/0.23.1280.716@0.23.1280.716" timestamp="1582576456765" />
-    <state width="1238" height="177" key="GridCell.Tab.0.right" timestamp="1582602937176">
+    <state width="1238" height="177" key="GridCell.Tab.0.right" timestamp="1582610679165">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="177" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1582602937176" />
+    <state width="1238" height="177" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1582610679165" />
     <state width="1238" height="212" key="GridCell.Tab.0.right/0.23.1280.715@0.23.1280.715" timestamp="1582524490092" />
     <state width="1238" height="212" key="GridCell.Tab.0.right/0.23.1280.716@0.23.1280.716" timestamp="1582576456766" />
     <state x="128" y="23" width="1024" height="715" key="SettingsEditor" timestamp="1582534508465">

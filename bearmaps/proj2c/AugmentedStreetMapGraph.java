@@ -2,10 +2,11 @@ package bearmaps.proj2c;
 
 import bearmaps.AStar.streetmap.Node;
 import bearmaps.AStar.streetmap.StreetMapGraph;
+import bearmaps.proj2ab.KDTree;
 import bearmaps.proj2ab.MyTrieSet;
 import bearmaps.proj2ab.Point;
 import bearmaps.proj2ab.PointSet;
-import bearmaps.proj2ab.WeirdPointSet;
+//import bearmaps.proj2ab.WeirdPointSet;
 
 import java.util.*;
 
@@ -48,7 +49,7 @@ public class AugmentedStreetMapGraph extends StreetMapGraph {
 
     public long closest(double lon, double lat) {
         long result = 0;
-        PointSet a = new WeirdPointSet(Points);
+        PointSet a = new KDTree(Points);
         List<Point> removedPoints = new ArrayList<>();
         Point nearest = a.nearest(lon,lat);
         Node nearestNode = pointToNode.get(nearest);
