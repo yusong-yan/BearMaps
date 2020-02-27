@@ -1,10 +1,10 @@
-package bearmaps.proj2c.server.handler.impl;
+package bearmaps.Map.server.handler.impl;
 
-import bearmaps.proj2c.server.handler.APIRouteHandler;
+import bearmaps.Map.server.handler.APIRouteHandler;
 import spark.Request;
 import spark.Response;
 
-import static bearmaps.proj2c.utils.Constants.ROUTE_LIST;
+import static bearmaps.Map.utils.Constants.ROUTE_LIST;
 
 
 /**

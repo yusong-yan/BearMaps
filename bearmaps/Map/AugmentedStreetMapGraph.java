@@ -1,11 +1,11 @@
-package bearmaps.proj2c;
+package bearmaps.Map;
 
 import bearmaps.AStar.streetmap.Node;
 import bearmaps.AStar.streetmap.StreetMapGraph;
-import bearmaps.proj2ab.KDTree;
-import bearmaps.proj2ab.MyTrieSet;
-import bearmaps.proj2ab.Point;
-import bearmaps.proj2ab.PointSet;
+import bearmaps.KDtree_PQ.KDTree;
+import bearmaps.KDtree_PQ.MyTrieSet;
+import bearmaps.KDtree_PQ.Point;
+import bearmaps.KDtree_PQ.PointSet;
 //import bearmaps.proj2ab.WeirdPointSet;
 
 import java.util.*;

@@ -2,8 +2,8 @@ package bearmaps.test;
 
 import org.junit.Before;
 import org.junit.Test;
-import bearmaps.proj2c.Router;
-import bearmaps.proj2c.AugmentedStreetMapGraph;
+import bearmaps.Map.Router;
+import bearmaps.Map.AugmentedStreetMapGraph;
 
 import java.util.ArrayList;
 import java.util.List;

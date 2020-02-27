@@ -2,7 +2,7 @@ package bearmaps.test;
 
 import org.junit.Before;
 import org.junit.Test;
-import bearmaps.proj2c.server.handler.impl.RasterAPIHandler;
+import bearmaps.Map.server.handler.impl.RasterAPIHandler;
 
 import java.nio.charset.Charset;
 import java.nio.file.Files;

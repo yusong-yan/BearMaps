@@ -1,4 +1,4 @@
-package bearmaps.proj2c.server.handler;
+package bearmaps.Map.server.handler;
 
 import com.google.gson.Gson;
 import spark.Request;

@@ -1,4 +1,4 @@
-package bearmaps.proj2c;
+package bearmaps.Map;
 
 import bearmaps.AStar.AStarSolver;
 import bearmaps.AStar.WeightedEdge;

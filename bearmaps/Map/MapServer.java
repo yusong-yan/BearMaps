@@ -1,7 +1,7 @@
-package bearmaps.proj2c;
+package bearmaps.Map;
 
 
-import bearmaps.proj2c.server.handler.APIRouteHandlerFactory;
+import bearmaps.Map.server.handler.APIRouteHandlerFactory;
 
 /**
  * This code is using BearMaps skeleton code version 4.0.

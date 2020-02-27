@@ -1,4 +1,4 @@
-package bearmaps.proj2c.utils;
+package bearmaps.Map.utils;
 
 /**
  * A utility class to hold objects of two different types

@@ -1,7 +1,7 @@
-package bearmaps.proj2c;
+package bearmaps.Map;
 
-import bearmaps.proj2c.server.handler.APIRouteHandler;
-import bearmaps.proj2c.utils.Constants;
+import bearmaps.Map.server.handler.APIRouteHandler;
+import bearmaps.Map.utils.Constants;
 
 import java.util.HashSet;
 import java.util.Map;

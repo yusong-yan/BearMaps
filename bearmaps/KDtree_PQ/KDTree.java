@@ -1,9 +1,9 @@
-package bearmaps.proj2ab;
+package bearmaps.KDtree_PQ;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import static bearmaps.proj2ab.Point.distance;
+import static bearmaps.KDtree_PQ.Point.distance;
 
 
 public class KDTree implements PointSet{

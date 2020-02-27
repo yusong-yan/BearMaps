@@ -1,8 +1,7 @@
 package bearmaps.AStar;
 
-import bearmaps.proj2ab.ArrayHeapMinPQ;
-import bearmaps.proj2ab.DoubleMapPQ;
-import bearmaps.proj2ab.ExtrinsicMinPQ;
+import bearmaps.KDtree_PQ.ArrayHeapMinPQ;
+import bearmaps.KDtree_PQ.ExtrinsicMinPQ;
 import edu.princeton.cs.algs4.Stopwatch;
 
 import java.util.HashMap;
