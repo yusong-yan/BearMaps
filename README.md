@@ -5,7 +5,7 @@ path to their destination with detailed instructions.
 
 ### Implemented files
 
-#### [AStar](bearmaps/AStar/AStarSolver.java) [KDtree](bearmaps/KDtree_PQ/KDTree.java) [PriorityQueue](bearmaps/KDtree_PQ/ArrayHeapMinPQ.java)
+#### [AStar](bearmaps/AStar/AStarSolver.java).     [KDtree](bearmaps/KDtree_PQ/KDTree.java).     [PriorityQueue](bearmaps/KDtree_PQ/ArrayHeapMinPQ.java)
   - Data structure and Graph algrithom for finding shortest path
 #### [Router](bearmaps/Map/Router.java)
   - Utilized Graph algrithom AStar to find shortest path
