@@ -7,6 +7,24 @@
       <change afterPath="$PROJECT_DIR$/../color_fight/color_fight.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../color_fight/out/production/color_fight/color_fight.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../puzzleSolver/puzzleSolver.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BearMap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BearMap/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BearMap/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BearMap/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BearMap/bearmaps/AStar/AStarSolver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BearMap/bearmaps/AStar/AStarSolver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BearMap/bearmaps/proj2ab/ArrayHeapMinPQ$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BearMap/bearmaps/proj2ab/ArrayHeapMinPQ.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BearMap/bearmaps/proj2ab/DoubleMapPQ.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BearMap/bearmaps/proj2ab/ExtrinsicMinPQ.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BearMap/bearmaps/proj2ab/KDTree$Direction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BearMap/bearmaps/proj2ab/KDTree$Min.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BearMap/bearmaps/proj2ab/KDTree$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BearMap/bearmaps/proj2ab/KDTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BearMap/bearmaps/proj2ab/MyTrieSet$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BearMap/bearmaps/proj2ab/MyTrieSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BearMap/bearmaps/proj2ab/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BearMap/bearmaps/proj2ab/PointSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BearMap/bearmaps/proj2c/AugmentedStreetMapGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BearMap/bearmaps/proj2c/Router$NavigationDirection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BearMap/bearmaps/proj2c/Router.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Percolation/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Percolation/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Percolation/Percolation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Percolation/Percolation.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Percolation/Percolation/Percolation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Percolation/Percolation/Percolation.java" afterDir="false" />
@@ -112,12 +130,16 @@
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="bearmaps.proj2ab" />
+      <recent name="bearmaps.AStar" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/bearmaps/proj2ab" />
       <recent name="$PROJECT_DIR$/bearmaps" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.TestRouterTiny">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -126,12 +148,12 @@
       <method />
     </configuration>
     <configuration name="MapServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bearmaps.proj2c.MapServer" />
+      <option name="MAIN_CLASS_NAME" value="bearmaps.Map.MapServer" />
       <module name="BearMap" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bearmaps.proj2c.*" />
+          <option name="PATTERN" value="bearmaps.Map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,6 +163,22 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRouterTiny" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="BearMap" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bearmaps.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="bearmaps.test" />
+      <option name="MAIN_CLASS_NAME" value="bearmaps.test.TestRouterTiny" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -172,6 +210,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestRouterTiny" />
         <item itemvalue="Application.MapServer" />
       </list>
     </recent_temporary>
@@ -198,6 +237,8 @@
       <workItem from="1582704376201" duration="8000" />
       <workItem from="1582758309329" duration="64000" />
       <workItem from="1582761547234" duration="40000" />
+      <workItem from="1582780558927" duration="1376000" />
+      <workItem from="1582782110055" duration="454000" />
     </task>
     <servers />
   </component>
@@ -225,28 +266,28 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="378" y="173" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1280.800@0.0.1280.800" timestamp="1582403309490" />
-    <state width="1238" height="177" key="GridCell.Tab.0.bottom" timestamp="1582610679166">
+    <state width="1238" height="177" key="GridCell.Tab.0.bottom" timestamp="1582783463354">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="177" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1582610679166" />
+    <state width="1238" height="177" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1582783463354" />
     <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.23.1280.715@0.23.1280.715" timestamp="1582524490093" />
     <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.23.1280.716@0.23.1280.716" timestamp="1582576456767" />
-    <state width="1238" height="177" key="GridCell.Tab.0.center" timestamp="1582610679164">
+    <state width="1238" height="177" key="GridCell.Tab.0.center" timestamp="1582783463352">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="177" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1582610679164" />
+    <state width="1238" height="177" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1582783463352" />
     <state width="1238" height="212" key="GridCell.Tab.0.center/0.23.1280.715@0.23.1280.715" timestamp="1582524490092" />
     <state width="1238" height="212" key="GridCell.Tab.0.center/0.23.1280.716@0.23.1280.716" timestamp="1582576456766" />
-    <state width="1238" height="177" key="GridCell.Tab.0.left" timestamp="1582610679163">
+    <state width="1238" height="177" key="GridCell.Tab.0.left" timestamp="1582783463351">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="177" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1582610679163" />
+    <state width="1238" height="177" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1582783463351" />
     <state width="1238" height="212" key="GridCell.Tab.0.left/0.23.1280.715@0.23.1280.715" timestamp="1582524490091" />
     <state width="1238" height="212" key="GridCell.Tab.0.left/0.23.1280.716@0.23.1280.716" timestamp="1582576456765" />
-    <state width="1238" height="177" key="GridCell.Tab.0.right" timestamp="1582610679165">
+    <state width="1238" height="177" key="GridCell.Tab.0.right" timestamp="1582783463353">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="177" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1582610679165" />
+    <state width="1238" height="177" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1582783463353" />
     <state width="1238" height="212" key="GridCell.Tab.0.right/0.23.1280.715@0.23.1280.715" timestamp="1582524490092" />
     <state width="1238" height="212" key="GridCell.Tab.0.right/0.23.1280.716@0.23.1280.716" timestamp="1582576456766" />
     <state x="128" y="23" width="1024" height="715" key="SettingsEditor" timestamp="1582534508465">

@@ -20,12 +20,7 @@ public class Point {
         return y;
     }
 
-    /**
-     * Returns the great-circle (haversine) distance between geographic coordinates
-     * (LATV, LONV) and (LATW, LONW).
-     *
-     * @source Kevin Lowe & Antares Chen, and https://www.movable-type.co.uk/scripts/latlong.html
-     **/
+
     private static double distance(double lonV, double lonW, double latV, double latW) {
         double phi1 = Math.toRadians(latV);
         double phi2 = Math.toRadians(latW);

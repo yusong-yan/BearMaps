@@ -75,6 +75,7 @@ public class MyTrieSet{
     }
 
     public List<String> keysWithPrefix(String prefix) {
+        prefix = prefix.toLowerCase();
         List<String> result = new ArrayList<>();
         Map<Character, Node> current = root;
         List<Character> currentList = rootList;
