@@ -3,32 +3,145 @@
   <component name="ChangeListManager">
     <list default="true" id="e659afcf-d87e-43d8-918e-f9563f035af3" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../Percolation/.idea/libraries/javalib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/equidistant.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/grid4x4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/grid5x5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/grid6x6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/horizontal100.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/horizontal25.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/horizontal5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/horizontal50.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/horizontal75.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/inarow.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/input1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/input10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/input10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/input100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/input100.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/input1000.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/input10000.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/input150.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/input2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/input20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/input20.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/input200.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/input200.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/input2000.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/input250.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/input299.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/input3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/input300.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/input3000.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/input350.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/input40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/input40.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/input400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/input400.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/input4000.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/input48.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/input50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/input50.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/input5000.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/input56.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/input56.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/input6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/input6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/input6000.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/input8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/input8.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/input80.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/input80.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/input8000.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/input9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/input9.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/kw1260.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/mystery10089.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/random152.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/random23.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/random38.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/random91.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/rs1423.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/rs1423.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/vertical100.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/vertical25.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/vertical5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/vertical50.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../collinear/files/vertical75.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../color_fight/.idea/libraries/javalib.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../color_fight/color_fight.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../color_fight/out/production/color_fight/color_fight.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../puzzleSolver/puzzleSolver.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bearmaps/AStar/WeirdSolver.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bearmaps/KDtree_PQ/ArrayHeapMinPQ.java" beforeDir="false" afterPath="$PROJECT_DIR$/bearmaps/KDtree_PQ/ArrayHeapMinPQ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bearmaps/KDtree_PQ/KDTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/bearmaps/KDtree_PQ/KDTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bearmaps/proj2ab/DoubleMapPQ.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bearmaps/proj2ab/ExtrinsicMinPQ.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bearmaps/proj2ab/MyTrieSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bearmaps/proj2ab/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bearmaps/proj2ab/PointSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bearmaps/proj2ab/WeirdPointSet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bearmaps/proj2c/AugmentedStreetMapGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bearmaps/proj2c/MapServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bearmaps/proj2c/MapServerInitializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bearmaps/proj2c/Router.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bearmaps/proj2c/server/handler/APIRouteHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bearmaps/proj2c/server/handler/APIRouteHandlerFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bearmaps/proj2c/server/handler/impl/ClearRouteAPIHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bearmaps/proj2c/server/handler/impl/RasterAPIHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bearmaps/proj2c/server/handler/impl/RedirectAPIHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bearmaps/proj2c/server/handler/impl/RoutingAPIHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bearmaps/proj2c/server/handler/impl/SearchAPIHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bearmaps/proj2c/utils/Constants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bearmaps/proj2c/utils/Tuple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bearmaps/test/TestDirections.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bearmaps/test/TestRasterAPIHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bearmaps/test/TestRouter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bearmaps/test/TestRouterTiny.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/BearMap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BearMap/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BearMap/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BearMap/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BearMap/bearmaps/AStar/AStarSolver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BearMap/bearmaps/AStar/AStarSolver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BearMap/bearmaps/proj2ab/ArrayHeapMinPQ$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BearMap/bearmaps/proj2ab/ArrayHeapMinPQ.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BearMap/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BearMap/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BearMap/bearmaps/AStar/WeirdSolver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BearMap/bearmaps/KDtree_PQ/ArrayHeapMinPQ.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BearMap/bearmaps/KDtree_PQ/ArrayHeapMinPQ.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BearMap/bearmaps/KDtree_PQ/KDTree$Direction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BearMap/bearmaps/KDtree_PQ/KDTree$Direction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BearMap/bearmaps/KDtree_PQ/KDTree$Min.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BearMap/bearmaps/KDtree_PQ/KDTree$Min.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BearMap/bearmaps/KDtree_PQ/KDTree$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BearMap/bearmaps/KDtree_PQ/KDTree$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BearMap/bearmaps/KDtree_PQ/KDTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BearMap/bearmaps/KDtree_PQ/KDTree.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/BearMap/bearmaps/proj2ab/DoubleMapPQ.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/BearMap/bearmaps/proj2ab/ExtrinsicMinPQ.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BearMap/bearmaps/proj2ab/KDTree$Direction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BearMap/bearmaps/proj2ab/KDTree$Min.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BearMap/bearmaps/proj2ab/KDTree$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/BearMap/bearmaps/proj2ab/KDTree.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/BearMap/bearmaps/proj2ab/MyTrieSet$Node.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/BearMap/bearmaps/proj2ab/MyTrieSet.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/BearMap/bearmaps/proj2ab/Point.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/BearMap/bearmaps/proj2ab/PointSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BearMap/bearmaps/proj2ab/WeirdPointSet$illiilli.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BearMap/bearmaps/proj2ab/WeirdPointSet.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/BearMap/bearmaps/proj2c/AugmentedStreetMapGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BearMap/bearmaps/proj2c/MapServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BearMap/bearmaps/proj2c/MapServerInitializer.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/BearMap/bearmaps/proj2c/Router$NavigationDirection.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/BearMap/bearmaps/proj2c/Router.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BearMap/bearmaps/proj2c/server/handler/APIRouteHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BearMap/bearmaps/proj2c/server/handler/APIRouteHandlerFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BearMap/bearmaps/proj2c/server/handler/impl/ClearRouteAPIHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BearMap/bearmaps/proj2c/server/handler/impl/RasterAPIHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BearMap/bearmaps/proj2c/server/handler/impl/RedirectAPIHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BearMap/bearmaps/proj2c/server/handler/impl/RoutingAPIHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BearMap/bearmaps/proj2c/server/handler/impl/SearchAPIHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BearMap/bearmaps/proj2c/utils/Constants.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BearMap/bearmaps/proj2c/utils/Tuple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BearMap/bearmaps/test/TestDirections.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BearMap/bearmaps/test/TestRasterAPIHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BearMap/bearmaps/test/TestRouter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BearMap/bearmaps/test/TestRouterTiny.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Percolation/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Percolation/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Percolation/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Percolation/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Percolation/Percolation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Percolation/Percolation.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Percolation/Percolation/Percolation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Percolation/Percolation/Percolation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Percolation/Percolation/UnionFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Percolation/Percolation/UnionFind.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Percolation/out/production/Percolation/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Percolation/out/production/Percolation/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Percolation/out/production/Percolation/Percolation/Percolation.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Percolation/out/production/Percolation/Percolation/Percolation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Percolation/out/production/Percolation/Percolation/UnionFind.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Percolation/out/production/Percolation/Percolation/UnionFind.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../color_fight/.idea/libraries/algs4.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../color_fight/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../color_fight/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../color_fight/out/production/color_fight/.idea/libraries/algs4.xml" beforeDir="false" />
@@ -56,6 +169,39 @@
       <change beforePath="$PROJECT_DIR$/../color_fight/out/production/color_fight/huglife/SampleCreature.class" beforeDir="false" afterPath="$PROJECT_DIR$/../color_fight/out/production/color_fight/huglife/SampleCreature.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../color_fight/out/production/color_fight/huglife/StdDraw.class" beforeDir="false" afterPath="$PROJECT_DIR$/../color_fight/out/production/color_fight/huglife/StdDraw.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../color_fight/out/production/color_fight/huglife/TestHugLife.class" beforeDir="false" afterPath="$PROJECT_DIR$/../color_fight/out/production/color_fight/huglife/TestHugLife.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../database/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/Parse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/db/CommandParse.java" beforeDir="false" afterPath="$PROJECT_DIR$/../database/db/CommandParse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/db/Database.java" beforeDir="false" afterPath="$PROJECT_DIR$/../database/db/Database.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/db/Table.java" beforeDir="false" afterPath="$PROJECT_DIR$/../database/db/Table.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/examples/fans.tbl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/examples/records.tbl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/examples/t1.tbl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/examples/t2.tbl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/examples/t4.tbl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/examples/teams.tbl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/out/production/database/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../database/out/production/database/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/out/production/database/Parse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/out/production/database/db/CommandParse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../database/out/production/database/db/CommandParse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/out/production/database/db/Database.class" beforeDir="false" afterPath="$PROJECT_DIR$/../database/out/production/database/db/Database.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/out/production/database/db/Table.class" beforeDir="false" afterPath="$PROJECT_DIR$/../database/out/production/database/db/Table.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/out/production/database/examples/fans.tbl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/out/production/database/examples/records.tbl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/out/production/database/examples/t1.tbl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/out/production/database/examples/t2.tbl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/out/production/database/examples/t4.tbl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/out/production/database/examples/teams.tbl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/out/production/database/p2/codeSamples/CardSuits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/out/production/database/p2/codeSamples/DemoCardSuits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/out/production/database/p2/codeSamples/InDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/out/production/database/p2/codeSamples/NestedTestClasses$TestTheOuterClassPrivateMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/out/production/database/p2/codeSamples/NestedTestClasses.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/out/production/database/p2/codeSamples/tryObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/p2/codeSamples/CardSuits.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/p2/codeSamples/DemoCardSuits.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/p2/codeSamples/InDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/p2/codeSamples/NestedTestClasses.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../database/p2/codeSamples/tryObject.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../planet_rotation/.idea/libraries/javalib.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../planet_rotation/.idea/libraries/javalib.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../planet_rotation/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../planet_rotation/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../planet_rotation/out/production/planet_rotation/.idea/libraries/javalib.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../planet_rotation/out/production/planet_rotation/.idea/libraries/javalib.xml" afterDir="false" />
@@ -139,7 +285,7 @@
       <recent name="$PROJECT_DIR$/bearmaps" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TestRouterTiny">
+  <component name="RunManager" selected="Application.MapServer">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -210,8 +356,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestRouterTiny" />
         <item itemvalue="Application.MapServer" />
+        <item itemvalue="JUnit.TestRouterTiny" />
       </list>
     </recent_temporary>
   </component>
@@ -239,6 +385,10 @@
       <workItem from="1582761547234" duration="40000" />
       <workItem from="1582780558927" duration="1376000" />
       <workItem from="1582782110055" duration="454000" />
+      <workItem from="1583822932386" duration="988000" />
+      <workItem from="1583872710493" duration="429000" />
+      <workItem from="1585511978497" duration="3628000" />
+      <workItem from="1585519421077" duration="622000" />
     </task>
     <servers />
   </component>
@@ -266,30 +416,30 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state x="378" y="173" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1280.800@0.0.1280.800" timestamp="1582403309490" />
-    <state width="1238" height="177" key="GridCell.Tab.0.bottom" timestamp="1582783463354">
+    <state width="1238" height="177" key="GridCell.Tab.0.bottom" timestamp="1585515669043">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="177" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1582783463354" />
+    <state width="1238" height="177" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1585515669043" />
     <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.23.1280.715@0.23.1280.715" timestamp="1582524490093" />
-    <state width="1238" height="212" key="GridCell.Tab.0.bottom/0.23.1280.716@0.23.1280.716" timestamp="1582576456767" />
-    <state width="1238" height="177" key="GridCell.Tab.0.center" timestamp="1582783463352">
+    <state width="1238" height="177" key="GridCell.Tab.0.bottom/0.23.1280.716@0.23.1280.716" timestamp="1585515633243" />
+    <state width="1238" height="177" key="GridCell.Tab.0.center" timestamp="1585515669041">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="177" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1582783463352" />
+    <state width="1238" height="177" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1585515669041" />
     <state width="1238" height="212" key="GridCell.Tab.0.center/0.23.1280.715@0.23.1280.715" timestamp="1582524490092" />
-    <state width="1238" height="212" key="GridCell.Tab.0.center/0.23.1280.716@0.23.1280.716" timestamp="1582576456766" />
-    <state width="1238" height="177" key="GridCell.Tab.0.left" timestamp="1582783463351">
+    <state width="1238" height="177" key="GridCell.Tab.0.center/0.23.1280.716@0.23.1280.716" timestamp="1585515633241" />
+    <state width="1238" height="177" key="GridCell.Tab.0.left" timestamp="1585515669041">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="177" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1582783463351" />
+    <state width="1238" height="177" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1585515669041" />
     <state width="1238" height="212" key="GridCell.Tab.0.left/0.23.1280.715@0.23.1280.715" timestamp="1582524490091" />
-    <state width="1238" height="212" key="GridCell.Tab.0.left/0.23.1280.716@0.23.1280.716" timestamp="1582576456765" />
-    <state width="1238" height="177" key="GridCell.Tab.0.right" timestamp="1582783463353">
+    <state width="1238" height="177" key="GridCell.Tab.0.left/0.23.1280.716@0.23.1280.716" timestamp="1585515633240" />
+    <state width="1238" height="177" key="GridCell.Tab.0.right" timestamp="1585515669042">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
-    <state width="1238" height="177" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1582783463353" />
+    <state width="1238" height="177" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1585515669042" />
     <state width="1238" height="212" key="GridCell.Tab.0.right/0.23.1280.715@0.23.1280.715" timestamp="1582524490092" />
-    <state width="1238" height="212" key="GridCell.Tab.0.right/0.23.1280.716@0.23.1280.716" timestamp="1582576456766" />
+    <state width="1238" height="177" key="GridCell.Tab.0.right/0.23.1280.716@0.23.1280.716" timestamp="1585515633242" />
     <state x="128" y="23" width="1024" height="715" key="SettingsEditor" timestamp="1582534508465">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
