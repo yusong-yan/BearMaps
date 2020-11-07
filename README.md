@@ -10,7 +10,7 @@ path to their destination with detailed instructions.
 #### [Router](bearmaps/Map/Router.java)
   - Utilized Graph algrithom AStar to find shortest path
   - After showing the route, method "routeDirection" provide detailed turn-by-turn navigation
-#### [MyTriesSet](BearMap/bearmaps/KDtree_PQ/MyTrieSet.java)
+#### [MyTriesSet](bearmaps/KDtree_PQ/MyTrieSet.java)
   - Implemented Tries data structure for autocomplete of searching location
 #### [AugmentedStreetMapGraph](bearmaps/Map/AugmentedStreetMapGraph.java)
   - Store all the data in the map for routing ,navigation, and autocomplete 
