@@ -1,7 +1,6 @@
 # BearMaps
 
-BearMaps is a web map application for Berkeley. Similiar to google map, users can search certain place and find shortest
-path to their destination with detailed instructions.
+Implemented many data structrues and features for Map application 
 
 ### Implemented files
 
